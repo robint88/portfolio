@@ -22,8 +22,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   /* ---------- Typing effect for hero role ---------- */
   const roles = [
-    'Software Engineer',
     'AI / ML Engineer',
+    'Software Engineer',
     'Full-Stack Developer',
     'Drummer on the side'
   ];
